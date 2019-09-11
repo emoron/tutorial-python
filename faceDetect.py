@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
 
+#https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
 face_cascade = cv2.CascadeClassifier('C:/Users/N/Desktop/haarcascade_frontalface_default.xml')
  
 image = cv2.imread('C:/Users/N/Desktop/test.jpg')
