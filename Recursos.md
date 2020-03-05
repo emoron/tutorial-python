@@ -1,0 +1,2 @@
+- [CATÁLOGO ESPECIALIZADO EN ARCHIVOS SOBRE BRUJERÍA Y HECHICERÍA](https://www.lanmo.unam.mx/brujeriayhechiceria/acerca.php)
+- [Catálogo Razonado de Expedientes Inquisitoriales](https://www.lanmo.unam.mx/brujeriayhechiceria/acerca.php)
